@@ -14,8 +14,6 @@
         "links": [
             {
                 "text": "Made with 💖 in Kenya by Edwin.",
-                "url": "https://dev.to/0x140/",
-                "new_window": true
             },
             {
                 "text": "Connected to DEV.to",
@@ -24,5 +22,5 @@
             }
         ]
     },
-    "title": "©2020"
+    "title": "Edwin"
 }
