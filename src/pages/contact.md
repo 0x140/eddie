@@ -7,4 +7,4 @@ menus:
 template: contact
 ---
 
-To get in touch with Eddie fill the form below.
+To get in touch with me,you can send me a message below.
