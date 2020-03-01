@@ -13,7 +13,9 @@
         "content": "&copy; All rights reserved.",
         "links": [
             {
-                "text": "Made with 💖 in Kenya by Edwin."
+                "text": "Made with 💖 by Edwin in Kenya\n",
+                "url": "https://dev.to/0x140/",
+                "new_window": true
             },
             {
                 "text": "Connected to DEV.to",
