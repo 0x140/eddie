@@ -12,7 +12,7 @@ sections:
     title: About
     content: >-
       I am a web developer who has passion in research, coding and exploring
-      new technologies. Currently,I am getting into machine learning using Tensorflow.js and AI with javascript in the browser.
+      new technologies. Currently,I am getting into Android app development with Kotlin and systems development with go programming language.
     actions:
       - label: Contact Me
         url: /contact
